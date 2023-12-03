@@ -20,7 +20,7 @@
 
 ![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)
 ![Angular](https://angular.io/assets/images/logos/angular/angular.svg)
-![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+![Bootstrap](https://www.google.com/imgres?imgurl=https%3A%2F%2Fgithub.githubassets.com%2Fassets%2FGitHub-Mark-ea2971cee799.png&tbnid=thYE3r73bm1jUM&vet=12ahUKEwjj19DHj_OCAxVxmmMGHfuzDcAQMygAegQIARAw..i&imgrefurl=https%3A%2F%2Fgithub.com%2Flogos&docid=H8p6HHzcTglWAM&w=560&h=560&itg=1&q=git%20hub%20logo%20png&ved=2ahUKEwjj19DHj_OCAxVxmmMGHfuzDcAQMygAegQIARAw)
 ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
