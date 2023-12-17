@@ -1,38 +1,24 @@
-# Hi 👋, I'm Renuka Kale
-
-## A passionate Full Stack developer from India
+<h1 align="center">Hi 👋, I'm Renuka Kale</h1>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renukakale29&label=Profile%20views&color=0e75b6&style=flat" alt="renukakale29" /> </p>
 
-- 🔭 I’m currently working on **Learning JS, Rest APIs, Angular**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renukakale29" alt="renukakale29" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Angular**
+- 🔭 I’m currently working on **Learning JS,Rest APls,Angular**
 
-- 💬 Ask me about **HTML, Java, MySQL**
+- 🌱 I’m currently learning **JavaScript ,Angular**
 
-- 📫 How to reach me: [rkale0617@gmail.com](mailto:rkale0617@gmail.com)
+- 💬 Ask me about **HTML ,Java,MySQL**
 
-## Connect with me:
+- 📫 How to reach me **rkale0617@gmail.com**
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/renukakale2908)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/renukakale2908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renukakale2908" height="30" width="40" /></a>
+</p>
 
-## Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)
-![Angular](https://angular.io/assets/images/logos/angular/angular.svg)
-![Bootstrap](https://www.google.com/imgres?imgurl=https%3A%2F%2Fgithub.githubassets.com%2Fassets%2FGitHub-Mark-ea2971cee799.png&tbnid=thYE3r73bm1jUM&vet=12ahUKEwjj19DHj_OCAxVxmmMGHfuzDcAQMygAegQIARAw..i&imgrefurl=https%3A%2F%2Fgithub.com%2Flogos&docid=H8p6HHzcTglWAM&w=560&h=560&itg=1&q=git%20hub%20logo%20png&ved=2ahUKEwjj19DHj_OCAxVxmmMGHfuzDcAQMygAegQIARAw)
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
-![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
-![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)
-
-## GitHub Stats:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=renukakale29&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renukakale29&show_icons=true&locale=en)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renukakale29&show_icons=true&locale=en" alt="renukakale29" /></p>
