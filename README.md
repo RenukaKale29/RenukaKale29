@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Renuka Kale</h1>
+<h1 align="center">Hi EveryOne 👋, I'm Renuka Kale</h1>
 <h3 align="center">A passionate Full Stack developer .A Computer Application Post Graduate | Seeking Full - Time Software Engineer / Web Developer Roles | HTML | CSS | JS | Java | MySQL | SpringBoot | Git/GitHub.
 </h3>
 
