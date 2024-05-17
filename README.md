@@ -10,7 +10,7 @@
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=renukakale29&label=Profile%20views&color=0e75b6&style=flat" alt="renukakale29" /> </p>
 
-  - 🔭 I’m currently working on **Learning JS, Rest APl, typeScript**
+  - 🔭 I’m currently working on **Learning JS, Rest APl**
   - 🌱 I’m currently learning **JS, Rest APl**
   - 💬 Ask me about **HTML ,Java, Hibernate ,Spring Boot ,MySQL**
   - 📫 How to reach me **rkale0617@gmail.com**
