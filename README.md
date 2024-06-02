@@ -1,5 +1,5 @@
-[![MasterHead](https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gifhttps://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)]
-<h1 align="center">Hi 👋, I'm Renuka MAngesh Kale</h1>
+[![MasterHead]([https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gifhttps://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif](https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif))]
+<h1 align="center">Hi 👋, I'm Renuka Mangesh Kale</h1>
 <h3 align="center"># Full Stack Developer 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
